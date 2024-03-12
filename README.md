@@ -1,9 +1,3 @@
-https://katyfeedbackapp.vercel.app/
-
-https://katygithubfinder.vercel.app/
-
-https://katyhousemarketplace.vercel.app/
-
 # React - Front to Back 2022 Course
 
 Welcome to the React - Front to Back 2022 Course! 🚀
