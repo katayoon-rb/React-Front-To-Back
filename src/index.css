@@ -48,6 +48,7 @@ header {
   padding: 40px 50px;
   margin: 20px 0;
   position: relative;
+  width: 25vw;
 }
 
 .card.reverse {
@@ -106,7 +107,6 @@ header {
 
 .text-link {
   height: 100px;
-  width: 25vw;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -115,9 +115,11 @@ header {
 
 
 @media (max-width: 600px) {
+  .card {
+    width: unset;
+  }
   .text-link {
     height: unset;
-    width: unset;
     flex-direction: row;
   }
   .project-list {
