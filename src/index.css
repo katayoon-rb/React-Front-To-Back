@@ -23,7 +23,7 @@ ul {
 }
 
 .project-list {
-  width: 80%;
+  width: 84vw;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -106,7 +106,7 @@ header {
 
 .text-link {
   height: 100px;
-  width: 250px;
+  width: 25vw;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
